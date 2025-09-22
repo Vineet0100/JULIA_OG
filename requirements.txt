@@ -1,0 +1,9 @@
+PyQt5
+simpleaudio
+edge-tts
+google-generativeai
+SpeechRecognition
+pyaudio
+pygame
+pillow
+keyboard
